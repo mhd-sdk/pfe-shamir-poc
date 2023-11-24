@@ -1,0 +1,16 @@
+{
+    "shamirSplitNumber": 3,
+    "shamirThreshold": 2,
+    "services" : [
+        {
+            "host": "http://127.0.0.1:3001"
+        },
+        {
+            "host": "http://127.0.0.1:3002"
+        },
+        {
+            "host": "http://127.0.0.1:3003"
+        }
+    ],
+    "mode": "prod"
+}
